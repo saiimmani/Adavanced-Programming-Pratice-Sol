@@ -50,4 +50,4 @@ This repository contains solutions and examples for advanced programming topics 
 ---
 
 
-**Happy Coding! 🚀**
+**Happy Coding! **
